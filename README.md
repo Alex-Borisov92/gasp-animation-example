@@ -37,4 +37,4 @@ This project is a simple landing page featuring animations using **GSAP**. It de
   ```
 
 ## Live Demo
-[Click here to view the live demo](#)
+https://alex-borisov92.github.io/gasp-animation-example/
